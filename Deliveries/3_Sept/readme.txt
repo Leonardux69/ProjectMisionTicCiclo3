@@ -29,6 +29,6 @@ v. Configuración DevOps (Leonardo)
 https://www.youtube.com/watch?v=1D4UakjCFfA&ab_channel=iMaster-Educaci%C3%B3nqueinspira
 48:20
 vi. Mookups (Ana)
-vii. UML Casos de Uso (Leonardo)
+vii. UML Casos de Uso (Brandon)
 vii. Archivo Documentación de software (Ubicado en la carpeta - Documentacion IEEE diseño manuales - Semana_1)
 quitar logos de los archivos (Diego)

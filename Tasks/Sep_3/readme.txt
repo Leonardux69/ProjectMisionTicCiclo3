@@ -26,7 +26,7 @@ iv. Historias de usuario a desarrollar en el Sprint 1 (Ana)
 https://www.youtube.com/watch?v=1D4UakjCFfA&ab_channel=iMaster-Educaci%C3%B3nqueinspira
 01:01
 v. Configuración DevOps (Leonardo)
-https://www.youtube.com/watch?v=1 D4UakjCFfA&ab_channel=iMaster-Educaci%C3%B3nqueinspira
+https://www.youtube.com/watch?v=1D4UakjCFfA&ab_channel=iMaster-Educaci%C3%B3nqueinspira
 48:20
 vi. Mookups (Ana)
 vii. UML Casos de Uso (Brandon)
